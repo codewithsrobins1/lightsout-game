@@ -4,7 +4,7 @@ A clone of the lights out game made using react.
 
 ## Screenshot
 
-![photo-of-game](https://github.com/codewithsrobins1/pokecard-game/blob/master/image/projectImg.PNG?raw=true)
+![photo-of-game](https://github.com/codewithsrobins1/lightsout-game/blob/master/readmeImg.PNG?raw=true)
 
 ### Built With
 
